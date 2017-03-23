@@ -1,0 +1,63 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 30px;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color: #f0f0f0;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 1.4em;
+    text-shadow: 10px 10px 12px #f0f0f0;
+}
+tr, th {
+    border: 0px; 
+    height: 65px;
+    width: 65px;
+    line-height: 10px;
+}
+.size {
+    font-size: 12px;
+}
+.Fade-Blue{
+    background-color: #0076A3;
+}
+.Blue{
+    background-color: #0066FF;
+}
+.Red{
+    background-color: #ff0000;
+}
+.Orange{
+    background-color: #FF7F50;
+}
+.Light-Blue{
+    background-color: #6495ED;
+}
+.Navy-Blue{
+    background-color: #2A388E;
+}
+.Light-Purple{
+    background-color: #964BB9;
+}
+.Dark-Purple{
+    background-color: #44124E;
+}
+.Green{
+    background-color: #A0D954;
+}
+.Yellow{
+    background-color: #F8B853;
+}
+.Grey{
+    background-color: #808080;
+}
+.Extra-Blue{
+    background-color: #2795b8;
+}
+.ColSize{
+    height: 60px;
+    width: 120px; 
+    font-size: 20px;
+}
